@@ -1,1 +1,0 @@
-# ugeopgave5-composition-og-inheritance
