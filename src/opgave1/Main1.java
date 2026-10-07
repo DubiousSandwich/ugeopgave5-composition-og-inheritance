@@ -4,6 +4,8 @@ public class Main1 {
 
     public static void main(String[] args) {
 
+        //opgave 1
+
         Window small = new Window(40, 40);
         Window medium = new Window(60, 60);
         Window large = new Window(100, 150);
